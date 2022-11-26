@@ -1,0 +1,191 @@
+13 Mahesh joinin 13-Jul-2021
+12 shop rent
+17-3
+14*577=-3000
+7,9 to 12 leave mahesh
+
+mahesh 900+865+200
+waterbattle 400
+mahesh 150
+mahesh 200+100+100
+kadhir 5000
+amjath 3700
+bhavesh 10800
+mahesh 10400
+saik mohiuddin 14000
+kadhir 5060
+auto 1000
+sjj  2040
+mida 21500
+mahesh 10000+5000
+ismail 3900
+siva 9000
+------------------------------------
+
+add boots 500 25-Jul-21
+          1000 13-Aug-21
+          800
+
+rxjs and ngrx statemangent
+unittesting 
+routing--path hash lazy loading forroot router  
+compnodemt commetion 1) @input @put 2)@viewchild 3)services 4) multiobsrile ,subject, multicustobrable bevilriable
+dirctive- ex menu over animmation
+pipe asyn pipe
+ngmodule
+main lo how many modules we can keept
+http intersepters token how 
+http client
+diff observable and pramics
+disign pattarten 
+Q)rxjs observable angular how to share data in to componates without communiction or state mang
+Q)what is canActive gard and deactive gard?
+Q)ngrx implmetions ?
+Q)why intersepters in angular?
+Q)what are the chanlenges faced while working with Agngular(dropdowns freze, tampltedriven froms, sreen freze)
+https://dzone.com/articles/50-top-angular-interview-questions-amp-answers
+https://www.mokkapps.de/blog/my-top-angular-interview-questions
+https://www.kodnest.com/top-100-angular-interview-questions-answers-frequently-asked/
+
+
+1) Why use funcatioal programing?
+   used write more reable code and maintable 
+   while using OOP we have some probleams, for satine requremts 
+   u
+   
+   
+   
+Microservice:
+   Q) what are the challeges faced while working with microsrvies?
+   Principles for Microservice Design
+   Q)microservices design patterns
+   https://www.edureka.co/blog/microservices-design-patterns
+
+core:
+   Q)How HashMap works in Java
+   Q)difference between fixed thread pool and cachedthreadpool
+   https://www.tutorialspoint.com/difference-between-fixed-thread-pool-and-cached-thread-pool
+   
+   Q)How to create Immutable class in Java?
+   Q)combine two arrays and sort without using collection.sort();
+   Q) read data from big file and if find repated and replace xxx and write in other flie
+   Q) write immutbale class
+   https://www.geeksforgeeks.org/create-immutable-class-java/
+   Q)String revarse
+   https://www.geeksforgeeks.org/reverse-a-string-in-java/
+   Q)Extending Exception/RunTimeException in java?
+	https://www.java67.com/2012/12/difference-between-runtimeexception-and-checked-exception.html
+	 Q)dead lock
+	https://www.javatpoint.com/how-to-avoid-deadlock-in-java
+	jConsole or VisualVM
+	https://www.geeksforgeeks.org/deadlock-in-java-multithreading/
+	http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
+	Q)diff b/w abcraction and enpclation 
+	Q)how differ abstraction or encapsulation in java
+	https://www.geeksforgeeks.org/difference-between-abstraction-and-encapsulation-in-java-with-examples/
+	 Q)diff b/w lock-framework-vs-thread-synchronization-i
+	https://www.geeksforgeeks.org/lock-framework-vs-thread-synchronization-in-java/
+	Q)why static and defualt in interface
+	https://www.baeldung.com/java-static-default-methods
+	Q)main task will process after completing all subtasks in java multithreading
+	https://stackoverflow.com/questions/14535770/executors-how-to-synchronously-wait-until-all-tasks-have-finished-if-tasks-are
+	Q)remove second higest number
+	Q) Can we write custome execetion using Throwable class
+	https://stackoverflow.com/questions/14891717/custom-exception-class-extends-from-exception-or-thowable
+	https://www.tutorialspoint.com/is-it-possible-to-create-a-custom-exception-in-java-without-extending-exception-class
+	Q)program multify and sum in java 8
+	Q)sington object is serilizable what happends?
+	https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
+	 Q)How internal-working-of-linkedhashmap?
+	{
+	int hash = 4498
+	Key key = {"Anamika"}
+	Integer value = "Anamika"
+	Node after = null
+	Node before = {“Dinesh”}
+	}
+	https://www.dineshonjava.com/internal-working-of-linkedhashmap-in-java/
+	Q)implmetion of LRU(Least recently used)
+	https://www.geeksforgeeks.org/lru-cache-implementation/
+SpringBoot:
+   Q)Spring boot startp
+   https://www.youtube.com/watch?v=nSu1wMXsPqY
+   @)spring transaction
+   https://www.youtube.com/watch?v=XL0EROsn5Yc
+   https://javacodehouse.com/courses/spring-boot/lesson-9-spring-transaction-handling/
+   https://www.baeldung.com/spring-transactional-propagation-isolation
+   https://www.programmersought.com/article/60914144940/
+	Q)difference service discovery and api gateway
+	 Q)spring boot with defualt
+ Q)spring bean required default constructor?
+ https://dzone.com/articles/spring-component-scan-beans-no
+ yes // may be to marshaling 
+ Q)Springboot custome configure?
+ https://springframework.guru/how-to-configure-multiple-data-sources-in-a-spring-boot-application/
+ https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7
+ Q)custmom spring boot actuator endpoints
+ https://www.javadevjournal.com/spring-boot/spring-boot-actuator-custom-endpoint/
+   
+Spring: 
+   Q)spring exception
+   Q)date validation in DTO class
+   https://www.baeldung.com/java-string-valid-date
+   @DateTimeFormat(pattern = "yyyy-MM-dd")
+   	Q)atuoconfigration
+   
+Web Servies: 
+   Q)json vs xml  
+   @)http optinal method
+   Q)Json vs order
+	https://www.baeldung.com/jackson-annotations
+	https://www.tutorialspoint.com/jackson_annotations/jackson_annotations_jsonproperty.htm
+AWS:
+   @) AWS s3 send get serlization sqs object mapper class
+   https://www.youtube.com/watch?v=vY7c7k8xmKE
+   @)cloud watch
+   https://www.youtube.com/watch?v=ZCHwJLqPLj8
+   paramtersotore 
+  https://www.youtube.com/watch?v=zxi3M_rIE2k
+   system managaer
+   wolte pwd aws feacting
+   task,task definition , service staic value
+   parmstore
+   https://www.youtube.com/watch?v=_8FXxHu2BKk
+    4types machine in pring re
+	hardcode
+	small
+	what is vpc
+	Lamnda
+	https://www.youtube.com/watch?v=6A9pqr4qQMo
+   CICD ->
+   java sonareq sontrelint
+   UI istanble   
+	@) wrere we kept configurtion files  
+		@) what is VPC
+	https://www.youtube.com/watch?v=JhH7epqrvF0
+ 
+
+Maven:
+	Q)maven scops
+	https://howtodoinjava.com/maven/maven-dependency-scopes/
+SQL)
+	diff nosql and sql
+	https://www.geeksforgeeks.org/difference-between-sql-and-nosql/
+ 
+	Q)order the ascending the varchar coloum Ex: 1.9, 3.1, 5.2, 1.1, 2.4
+	https://blog.sqlauthority.com/2018/12/30/how-to-sort-a-varchar-column-storing-integers-with-order-by-interview-question-of-the-week-206/
+	Q) sum of salary for dept wise 
+	https://stackoverflow.com/questions/41280637/how-to-find-total-salary-of-all-departments
+	Q) Create a tabe if not exite if is there updata the data
+	https://stackoverflow.com/questions/3164505/mysql-insert-record-if-not-exists-in-table
+
+ Angular:
+	Q)https://zoaibkhan.com/blog/create-a-fast-infinite-scrolling-list-in-angular/
+
+	Q)angular-infinite-scroll
+	https://stackblitz.com/edit/angular-infinite-scroll?file=src%2Fapp%2Fapp.component.ts
+ 
+
+
+
+

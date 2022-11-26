@@ -1,0 +1,17 @@
+package com.aziz.integer;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class MissingNumber {
+
+	public static void main(String[] args) {
+		List<Integer> list = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+		List<Integer> list1 = new ArrayList<>(Arrays.asList(1,2,3,4,6,7,8,9,10));
+		list.removeAll(list1);
+		System.out.println(list);
+
+	}
+
+}
